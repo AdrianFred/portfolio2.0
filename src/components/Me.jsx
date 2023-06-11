@@ -9,7 +9,10 @@ export default function Me() {
           <p className="text-red-500">Hello there, my name is</p>
           <h1 className="text-2xl md:text-4xl">Adrian Fredriksen</h1>
           <p className=" text-red-300 text-lg max-w-[500px]">
-            Im currently taking a course about Front End development at Noroff.<br></br> Focusing on React.js and TailwindCSS
+            Welcome to my frontend web development portfolio! I'm dedicated to crafting captivating user experiences through clean code and stunning
+            designs. Explore my work and let's bring your ideas to life on the web!
+            <br />
+            Focusing on Next.js and TailwindCSS for the moment.
           </p>
         </div>
         <img className="w-72 rounded-lg mx-auto" src={addi} alt="test" />
